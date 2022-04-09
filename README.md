@@ -40,3 +40,14 @@ doc/**/*.pdf
 
 <br>
 Dentro de los cambios del primer commit se observan archivos de compilación, lo cuál, es innecesario mantener dentro del repositorio.
+
+<br>
+
+### Nota. Si resolvió correctamente los puntos ii y iii notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿es igual a los anteriores? ¿por qué? Responder en el archivo readme.md
+
+<br>
+
+En los puntos ii) y iii) el resultado es el mismo ya que, en ii) se imprime el valor del puntero, o sea, la dirección de memoria de la variable y en iii) se imprime la dirección de memoria de la variable.
+
+<br>
+En el punto 4 el resultado es otro, porque en vez de imprimir el valor del puntero que es la dirección de memoria de la variable, se imprime la dirección de memoria del puntero.
