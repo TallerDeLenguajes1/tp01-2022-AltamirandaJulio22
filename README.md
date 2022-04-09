@@ -36,49 +36,7 @@ doc/**/*.pdf
 ```
 <br>
 
-<!-- Y estas son algunas referencias que contendra el archivo para indicarle a git cuales son los archivos que se quieren ignorar dentro del proyecto: -->
+### 3 c)Revise los archivos subidos en su repositorio de github. ¿Que archivos ve?¿Cuál cree que no hace falta que esté?
 
-
-
-
-
-<!-- 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-### aqui voy a escribir una lista:
-1. escribir
-2. leer
-3. escuchar
-### otra lista más:
-- escuchar
-- leer
-- jugar 
-
- -->
+<br>
+Dentro de los cambios del primer commit se observan archivos de compilación, lo cuál, es innecesario mantener dentro del repositorio.
